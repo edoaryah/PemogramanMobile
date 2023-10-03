@@ -1,0 +1,6 @@
+![tampilan home](screenshot/ss1.png)
+![melakukan input data](screenshot/ss2.png)
+![hasil setelah input data](screenshot/ss3.png)
+![melakukan edit data](screenshot/ss4.png)
+![hasil setelah edit data](screenshot/ss5.png)
+![hasil setelah hapus data](screenshot/ss6.png)
